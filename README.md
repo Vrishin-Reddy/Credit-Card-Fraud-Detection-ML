@@ -19,9 +19,8 @@ This project aims to detect fraudulent credit card transactions using machine le
 Credit_Card_Fraud_Detection_ML/
 │
 ├── Credit_Card_Fraud_Detection_(mini_proj).ipynb   # Main notebook
-├── final mini project report 22.pdf                # Report document
-├── creditcard.csv/                                 # Dataset directory
-│   └── data.csv                                     # Main dataset
+├── report.pdf                                      # Report document
+
 ```
 
 ## 📊 Dataset
@@ -70,10 +69,6 @@ Credit_Card_Fraud_Detection_ML/
 
 ## 📄 Report
 For in-depth methodology, results, and analysis, refer to:  
-📘 `final mini project report 22.pdf`
+📘 `report.pdf`
 
-## 🧑‍💻 Author
-**Vrishin Reddy Minkuri**  
-[LinkedIn](https://www.linkedin.com/in/vrishin-reddy/) | [GitHub](https://github.com/Vrishin-Reddy)
-# Credit-Card-Fraud-Detection-ML
-# Credit-Card-Fraud-Detection-ML
+
